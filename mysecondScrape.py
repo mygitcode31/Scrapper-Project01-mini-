@@ -16,6 +16,12 @@
 # python -m pip install beautifulsoup4
 # => parse html
 
+####################################################
+# 1. change the code 
+# 2. git add .
+# 3. git commit -m "Comment"
+# 4. git push
+####################################################
 
 
 import requests
