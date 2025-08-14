@@ -1,3 +1,23 @@
+# go to git bash
+# git config --global user.name "Naresh Prasad Yadav"
+# git config --global user.email "npy.personal@gmail.com"
+
+
+# git init
+# git status => if you want to check what are the status of files
+# git diff => if you want to check what are the changes
+# git add .
+# git commit -m "Comment"
+# copy paste git code from github
+
+
+# python -m pip install requests
+# => get data from web (html, json, xml)
+# python -m pip install beautifulsoup4
+# => parse html
+
+
+
 import requests
 from bs4 import BeautifulSoup 
 
