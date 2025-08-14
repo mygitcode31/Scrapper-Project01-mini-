@@ -23,10 +23,13 @@
 # 4. git push
 ####################################################
 
+# git checkout -b refactor-code => is to work in different branch rather than main branch
+# it means switch to the new branch
 
-import requests
-import json
+
 import csv
+import json
+import requests
 from bs4 import BeautifulSoup 
 
 # URL of the website to scrape
